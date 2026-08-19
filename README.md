@@ -1,2 +1,2 @@
-# Claude Code Template for Product Branding
-Design framework for new product branding, aimed for Claude Code
+# Claude Code Template for Project Branding
+Design framework for new project/product/spinout branding, aimed for Claude Code
