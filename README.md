@@ -1,2 +1,2 @@
-# Claude Code Template for Project Branding
-Design framework for new project/product/spinout branding, aimed for Claude Code
+# Evidence-Gated Design Framework (EGDF) by Research Graph Foundation
+A sequenced, testable framework for brand identity, design systems, and public-facing presence — for commercial startups, open-source projects, and research software alike.
